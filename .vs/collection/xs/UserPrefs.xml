@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{4858A9E6-A42E-4578-8D3F-0C1A5296F6D7}|Default">
+  <MonoDevelop.Ide.ItemProperties.collection PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LinkedList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.binary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinkedList/Program.cs">
+    <Files>
+      <File FileName="collection/Program.cs" Line="108" Column="9" />
+      <File FileName="binary/Program.cs" />
+      <File FileName="LinkedList/Program.cs" Line="18" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="collection" expanded="True">
+            <Node name="binary" expanded="True" />
+            <Node name="collection" expanded="True" />
+            <Node name="LinkedList" expanded="True">
+              <Node name="ConnectedServicesFolder" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mengxuan/Projects/collection/binary/Program.cs" relfile="binary/Program.cs" line="9" column="1" />
+      <Breakpoint file="/Users/mengxuan/Projects/collection/LinkedList/Program.cs" relfile="LinkedList/Program.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

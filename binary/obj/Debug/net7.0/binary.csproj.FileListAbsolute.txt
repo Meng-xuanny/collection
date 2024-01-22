@@ -1,0 +1,15 @@
+/Users/mengxuan/Projects/collection/binary/bin/Debug/net7.0/binary
+/Users/mengxuan/Projects/collection/binary/bin/Debug/net7.0/binary.deps.json
+/Users/mengxuan/Projects/collection/binary/bin/Debug/net7.0/binary.runtimeconfig.json
+/Users/mengxuan/Projects/collection/binary/bin/Debug/net7.0/binary.dll
+/Users/mengxuan/Projects/collection/binary/bin/Debug/net7.0/binary.pdb
+/Users/mengxuan/Projects/collection/binary/obj/Debug/net7.0/binary.csproj.AssemblyReference.cache
+/Users/mengxuan/Projects/collection/binary/obj/Debug/net7.0/binary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mengxuan/Projects/collection/binary/obj/Debug/net7.0/binary.AssemblyInfoInputs.cache
+/Users/mengxuan/Projects/collection/binary/obj/Debug/net7.0/binary.AssemblyInfo.cs
+/Users/mengxuan/Projects/collection/binary/obj/Debug/net7.0/binary.csproj.CoreCompileInputs.cache
+/Users/mengxuan/Projects/collection/binary/obj/Debug/net7.0/binary.dll
+/Users/mengxuan/Projects/collection/binary/obj/Debug/net7.0/refint/binary.dll
+/Users/mengxuan/Projects/collection/binary/obj/Debug/net7.0/binary.pdb
+/Users/mengxuan/Projects/collection/binary/obj/Debug/net7.0/binary.genruntimeconfig.cache
+/Users/mengxuan/Projects/collection/binary/obj/Debug/net7.0/ref/binary.dll

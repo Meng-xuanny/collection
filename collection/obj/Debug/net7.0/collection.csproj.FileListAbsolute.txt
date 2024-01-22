@@ -1,0 +1,15 @@
+/Users/mengxuan/Projects/collection/collection/bin/Debug/net7.0/collection
+/Users/mengxuan/Projects/collection/collection/bin/Debug/net7.0/collection.deps.json
+/Users/mengxuan/Projects/collection/collection/bin/Debug/net7.0/collection.runtimeconfig.json
+/Users/mengxuan/Projects/collection/collection/bin/Debug/net7.0/collection.dll
+/Users/mengxuan/Projects/collection/collection/bin/Debug/net7.0/collection.pdb
+/Users/mengxuan/Projects/collection/collection/obj/Debug/net7.0/collection.csproj.AssemblyReference.cache
+/Users/mengxuan/Projects/collection/collection/obj/Debug/net7.0/collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mengxuan/Projects/collection/collection/obj/Debug/net7.0/collection.AssemblyInfoInputs.cache
+/Users/mengxuan/Projects/collection/collection/obj/Debug/net7.0/collection.AssemblyInfo.cs
+/Users/mengxuan/Projects/collection/collection/obj/Debug/net7.0/collection.csproj.CoreCompileInputs.cache
+/Users/mengxuan/Projects/collection/collection/obj/Debug/net7.0/collection.dll
+/Users/mengxuan/Projects/collection/collection/obj/Debug/net7.0/refint/collection.dll
+/Users/mengxuan/Projects/collection/collection/obj/Debug/net7.0/collection.pdb
+/Users/mengxuan/Projects/collection/collection/obj/Debug/net7.0/collection.genruntimeconfig.cache
+/Users/mengxuan/Projects/collection/collection/obj/Debug/net7.0/ref/collection.dll
