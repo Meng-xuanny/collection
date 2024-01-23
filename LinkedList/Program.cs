@@ -11,8 +11,8 @@ linked.AddToFront("b");
 linked.Add("c");
 linked.AddToEnd("d");
 linked.Remove("a");
-//var containsA=linked.Contains("a");
-//var containsD = linked.Contains("d");
+var containsA = linked.Contains("a");
+var containsD = linked.Contains("d");
 //linked.Clear();
 var array = new string[7];
 linked.CopyTo(array, 2);
@@ -35,11 +35,7 @@ public interface ILinkedList<T> : ICollection<T>
 }
 
 
-public interface ICollection<T>
-{
-    void AddToFront(T item);
-    void AddToEnd(T item);
-}
+
 
 
 
@@ -64,24 +60,19 @@ public class SingleLinkedList<T> : ILinkedList<T?>, IEnumerable
 
         public override string ToString()
         {
-            return $"Value: {Value}, Next: {(Next is null? null:Next.Value)}.";
+            return $"Value: {Value}, Next: {(Next is null? "null":Next.Value)}.";
         }
 
     }
-   // private List<Node<T>?>? _nodes;
+  
     private Node? _head;
-    public int _count=0;
+    private int _count=0;
 
     public int Count
     {
         get => _count;
-
     }
-
-    public SingleLinkedList()
-    {
-
-    }
+    
     
 
     public void AddToFront(T? item)
@@ -91,7 +82,7 @@ public class SingleLinkedList<T> : ILinkedList<T?>, IEnumerable
         newHead.Next = _head;
         _head = newHead;
         ++_count;
-       // _nodes.Insert(0,newHead);
+       
     }
 
     public void AddToEnd(T? item)
@@ -132,7 +123,7 @@ public class SingleLinkedList<T> : ILinkedList<T?>, IEnumerable
        get=> false;
     }
 
-    public void Add(T item)
+    public void Add(T? item)
     {
        AddToEnd(item);
     }
@@ -176,7 +167,7 @@ public class SingleLinkedList<T> : ILinkedList<T?>, IEnumerable
     private IEnumerable<Node> GetNodes()
     {
         Node? temp = _head;
-        while (temp.Next != null)
+        while (temp!.Next != null)
         {
             yield return temp;
             temp = temp.Next;
@@ -210,7 +201,7 @@ public class SingleLinkedList<T> : ILinkedList<T?>, IEnumerable
         return false;
     }
 
-    public void CopyTo(T[]? arr, int index)
+    public void CopyTo(T?[] arr, int index)
     {
         if(arr is null)
         {
